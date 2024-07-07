@@ -1,5 +1,5 @@
 namespace BlobCache;
 
-public interface IBlobPointer {
-
+public interface IRecordPointer {
+    
 }
